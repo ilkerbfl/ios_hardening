@@ -303,6 +303,7 @@ olarak uygulamalar indirilir ve kurulur.
 
     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/o7bPdb"><img src="http://i.hizliresim.com/o7bPdb.png"   align="left" height="480" width="256"></a>
     Çok önemli gördüğüm bir özelliktir dolayısıyla, hassas veya
     başkasına eline kesinlikle geçmesini istemediğiniz verileriniz varsa
     ki yüksek ihtimalle var bu ayarı yapmayı ihmal etmeyin. Bu olay
@@ -350,6 +351,7 @@ olarak uygulamalar indirilir ve kurulur.
     
     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480"  width="256"></a>
+    <a href="http://hizliresim.com/nrXVoM"><img src="http://i.hizliresim.com/nrXVoM.png"  align="left" height="480"  width="256"></a>
 
 16- Üçüncü partilerin çerezlerini(cookies) engelle.
     Üçüncü parti çerez nedir önce kısaca onu anlatayım. Örneğin siz
@@ -374,8 +376,7 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480"  width="256"></a>
     <a href="http://hizliresim.com/OMQG8Q"><img src="http://i.hizliresim.com/OMQG8Q.png"   align="left" height="480"  width="256"></a>
     
-17. Takip edilmeme(Do Not Track) özelliğini açmalısınız.
-
+17- Takip edilmeme(Do Not Track) özelliğini açmalısınız.
     Bu seçenek işaretli olduğu takdirde safari istekte bulunduğumuz
     siteye bir başlık gönderiyor. Bu kullanıcı takip edilmek
     istememekte diye. Çoğu site onurlu bir tutum sergileyerek bu
@@ -397,8 +398,7 @@ olarak uygulamalar indirilir ve kurulur.
      <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480"  width="256"></a>
     <a href="http://hizliresim.com/2ZGD4j"><img src="http://i.hizliresim.com/2ZGD4j.png"   align="left" height="480"  width="256"></a>
-18. Ağ’a bağlanmak için sor’u kapatmalısınız.
-
+18-Ağ’a bağlanmak için sor’u kapatmalısınız.
     Varsayılan ayarlarda eğer bir ağa bağlı değilseniz ve daha önceden
     bağlı oluş olduğunuz hiç ağ yoksa ve yeni bir ağ keşfedilmiş ise iOS
     bu ağa bağlanmak istiyormusunuz diye sormakta. iOS’un işi bu sorar
@@ -421,8 +421,8 @@ olarak uygulamalar indirilir ve kurulur.
     
      <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/ZdG8mo"><img src="http://i.hizliresim.com/ZdG8mo.png"  align="left" height="480" width="256"></a>
-19. Kullanımda değilse eğer AirDrop özelliğini kapatmalısınız.
-
+    <a href="http://hizliresim.com/B2qmdL"><img src="http://i.hizliresim.com/B2qmdL.png"  align="left" height="480" width="256"></a>
+19-Kullanımda değilse eğer AirDrop özelliğini kapatmalısınız.
     AirDrop iki iOS cihazı arasında kolayca dosya transferi sağlamak
     amacıyla oluşturulmuş bir servis. Haliyle diğer tüm servisler gibi
     tadını kaçırmamak için o an aktif olarak bir dosya alıp
@@ -436,8 +436,7 @@ olarak uygulamalar indirilir ve kurulur.
 
 -   Tap Off
 
-20. Bluetooth kullanımda değilse kapatmalısınız.
-
+20- Bluetooth kullanımda değilse kapatmalısınız.
     Bluetooth’u kapatmak bize uzaktan saldırabilme ihtimallerini
     azaltacağı gibi istemsizce başkalarının bluetoothuna bağlanmayıda
     engelleyecektir.Kronik tavsiye olarak bluetooh aktif şekilde dosya
@@ -451,8 +450,11 @@ olarak uygulamalar indirilir ve kurulur.
 
 -   Turn Off Bluetooth
 
-21. Kişisel Hotspot kullanımda değilse kapatmalısınız
+     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+     <a href="http://hizliresim.com/mLQjAY"><img src="http://i.hizliresim.com/mLQjAY.png"   align="left" height="480" width="256"></a>
+     <a href="http://hizliresim.com/DJQV0Z"><img src="http://i.hizliresim.com/DJQV0Z.png"  align="left" height="480" width="256"></a>
 
+21-Kişisel Hotspot kullanımda değilse kapatmalısınız
     Kişisel Hotspot özelliği cihazların bir şebeke görevi görüp, kendi
     ağlarını diğer cihazlarla paylaşmasına olanak sağlar. Cihaz bu
     bağlantıyı Bluetooth, Wi-Fi veya USB üzerinden sağlayabilir. Bir
@@ -465,11 +467,13 @@ olarak uygulamalar indirilir ve kurulur.
 
 -   Tap Settings
 
--   Tap Cellular
-
 -   Tap Personal Hotspot
 
 -   Personal Hotspotu kapat
+    
+    <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/GzdQjV"><img src="http://i.hizliresim.com/GzdQjV.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/1d8mqb"><img src="http://i.hizliresim.com/1d8mqb.png"  align="left" height="480" width="256"></a>
 
 22. Otomatik bağlanmayı engellemek için Wi-Fi ağlarını unutmalısınız.
 
@@ -498,12 +502,12 @@ olarak uygulamalar indirilir ve kurulur.
 -   Tap Forget
      <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/ZdG8mo"><img src="http://i.hizliresim.com/ZdG8mo.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/B2qmlj"><img src="http://i.hizliresim.com/B2qmlj.png"  align="left" height="480" width="256"></a>
     Uyarı:Bu sadece civarımızdaki ağların unutulmasına imkan sağlar.
     Daha önceden bağlanmış olup şuan civarında olmadığımız ağları
     unutmak içinde reset all network settings yapılmalı.
-
-23. Yer bildirici servisleri kapatmalısınız.
-
+    
+23- Yer bildirici servisleri kapatmalısınız.
     Yer bildirici servisler yüklenen uygulamaların veya yerimizi bilme
     isteği yollayan websitelerine iznimiz dahilinde bu bilgileri sağlar.
     Fakat işin kötü yanı bu izni birkez verdiğimiz zaman bu uygulama
@@ -521,10 +525,13 @@ olarak uygulamalar indirilir ve kurulur.
 -   Location Services kapat
 
 -   Bilgilendirme dialogunda Turn Off’u seçin
+    
+    <a href="http://hizliresim.com/L3BP7G"><img src="http://i.hizliresim.com/L3BP7G.png"    align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/L3B7k1"><img src="http://i.hizliresim.com/L3B7k1.png"   align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/1d8PPA"><img src="http://i.hizliresim.com/1d8PPA.png"   align="left" height="480" width="256"></a>
 
-24. Yer bildirici servislere,rehbere,fotoğraflara vs erişimi
-    kısıtlamalısınız
-
+24- Yer bildirici servislere,rehbere,fotoğraflara vs erişimi
+     kısıtlamalısınız
     iOS7 ile beraber , uygulamaların Yer bildirici
     servislere,rehbere,fotoğraflara,ajandaya vs erişimi için uygulamaya
     özel kısıtlamalar tanımlanma imkanı getirildi. Uygulamalar bu izni
@@ -541,7 +548,10 @@ olarak uygulamalar indirilir ve kurulur.
 -   Tap Privacy
 
 -   Tap Location Services
-
+    
+     <a href="http://hizliresim.com/L3BP7G"><img src="http://i.hizliresim.com/L3BP7G.png"    align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/L3B7k1"><img src="http://i.hizliresim.com/L3B7k1.png"   align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/AJ920L"><img src="http://i.hizliresim.com/AJ920L.png" align="left" height="480" width="256"></a>
     Buradan sonra hangi uygulamaya güveniyorsak eğer onları seçmeliyiz.
     Seçilmeyenler artık bu servise erişemeyecektir. Diğer hassas
     verilerimiz olduğu kısımlar içinde benzer aşamaları yapıp
@@ -550,9 +560,8 @@ olarak uygulamalar indirilir ve kurulur.
     özellikle sizi hassas olmaya davet ettiğim özelliklerin
     başında gelmektedir.
 
-25. Ekran kilidi devredeyken Control Center’a erişim
+25- Ekran kilidi devredeyken Control Center’a erişim
     imkanını kapatmalısınız.
-
     Kullanıcılara ekran kilitliyken sık kullanılan ayarlara ve
     uygulamalara hızlıca erişim imkanı vermek için iOS7 den sonra ortaya
     çıkan bu özellik başımızı ağrıtabilecek güce sahip. Zaten iOS7 çıkar
@@ -572,9 +581,12 @@ olarak uygulamalar indirilir ve kurulur.
 -   Tap Control Center
 
 -   Access On Lock Screen’i kapat
+    
+     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/nrXPgM"><img src="http://i.hizliresim.com/nrXPgM.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/X4aWo5"><img src="http://i.hizliresim.com/X4aWo5.png"  align="left" height="480" width="256"></a>
 
-26. TouchID özelliğini kapatmalısınız.
-
+26  TouchID özelliğini kapatmalısınız.
     iPhone5s ve yeni cihazların desteklediği bu özellik, kullanıcının
     herhangi bir şifre girmeden parmak izini orta tuşa dokundurarak
     giriş yapmasına olanak sağlıyor. Böylelikle bizde şifreyle
@@ -604,8 +616,7 @@ olarak uygulamalar indirilir ve kurulur.
 -   8 veya daha fazla uzunlukta şifrenizi girmek için aşamaları
     takip edin.
 
-27. Private Browsing Safaride ihtiyaç durumunda etkin hale getirilmeli.
-
+27- Private Browsing Safaride ihtiyaç durumunda etkin hale getirilmeli.
     Bu özellik kullanıcının websiteleri tarafından takip edilmesini
     engeller, çerezleri tutmaz, otomatik tamamlama devre dışıdır, arama
     geçmişimiz yoktur ve tutulmaz . Dolayısıyla kafamız rahat bir
@@ -622,8 +633,7 @@ olarak uygulamalar indirilir ve kurulur.
 
 -   Close All , Keep All, Close All Pages ten birini seçiniz.
 
-28. Safaride javascripti kullanım dışı bırakın.
-
+28- Safaride javascripti kullanım dışı bırakın.
     Evet belkide iyice paranoyaklaştığımı düşünmeye başladınız. Belkide
     amma da yumuşak iOS’um varmış sıkılaştır sıkılaştır bitmedi dediniz.
     Belkide yeter artık oku oku bitmiyor dediniz ama emin olun yaz yaz
