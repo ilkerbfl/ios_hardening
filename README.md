@@ -1,1 +1,607 @@
 # ios_hardening
+
+1-İşletim sistemini son sürümüne güncelleyiniz.
+
+Apple cihazları genellikle üretildikleri zaman , zamanının en güncel
+sürümleriyle üretilir.Fakat zamanla ortaya çıkan zaafiyetler ve hatalar
+düzeltilir veya işletim sistemine yeni özellikler eklenir. Böylelikle
+sistemin güvenliği olabildiğince sıkı tutulmaya çalışılır.Eğer cihazının
+destekliyorsa mümkün olan en güncel sürümü yüklemelisiniz. Şayet ciddi
+güvenlik önlemi gerektiren bir durum söz konusu ise cihazınızı işletim
+sisteminin en güncel sürümünü destekleyecek donanıma sahip olacak
+sıklıkta değiştirmelisiniz.
+
+2-Jailbreakten(kırma) uzak durmalısınız
+
+Halk arasında kırma diye bilinen işletim sisteminin güvenlik önlemlerini
+aşarak yetkisiz programların yüklenmesi veya şifre kırma gibi işlemlerin
+yapılması için kullananılan yöntemdir. Bu yöntem App Storeda olmayan
+programların kullanılmasına olanak sağlar haliyle cihazın genel güvenlik
+zaafiyetini üst noktalara tırmandırır. Apple app store’a yüklenme
+aşamasından önce tüm programları tekrar inceleyerek zararlı veya şüpheli
+yazılımları ayıklamaya çalışır. Tamamen ayıklandığını söyleyemesekte
+kırılmamış ios cihazlar için tehdit boyutunu minimal seviyeye
+indirdiğini söyleyebiliriz. Mobil cihazlar için antivirüs vs gibi
+programlar bilgisayarlar için yazılmış antivirüs vs kıyasla hayli
+başarısız olduğunuda değinmeliyiz. Buna caydırıcı olarak bazı
+uygulamalar cihazların kırık olup olmadığını kontrol ediyor ve
+uygulamasının indirilmesini reddediyor.
+
+Tüm bunlara ilave kırık cihazlar yeni sürüm ios çıktığında yeni sürüme
+geçmeleri biraz daha zaman alacaktır. Yeni sürümün tanınması
+zaafiyetlerinden yararlanılması ve kırılması vakit alacağından. Bunun
+yanında cihazda yüklü bulunan uygulamaları kaybetme ihtimali olacaktır.
+Fakat sürüm yükseltmemek ise bir önceki sürümde ortaya çıkmış açıkların
+bilinirliğiyle cihazı kullanmaya devam etmek demek.
+
+Sonuç olarak eğerki jailbreak(kırık) cihaz kullanırsanız. Kendiniz tüm
+sorumluluğu almalısınız. Zararlı yazılımları öngörüp kaçınmalısınız.
+Root yetkisi isteyen uygulamalardan kesin emin değilseniz
+yüklememelisiniz.
+
+3.  Uygulamaların otomatik güncellemelerini açık tutmalısınız.
+
+    Uygulama güncellemeleri güvenlik zaafiyetlerinden,uygulamada bulunan
+    hatadan veya eklenmek istenen yeni özellikten
+    ötürü geliştirilmiştir. O yüzden özellikle internet ile etkileşim
+    halinde olan ve web tabanlı servisler sıklıkla güncellemelisiniz. Bu
+    açık tutma özelliği sayesinde güncelleştirme çıktığı zaman otomatik
+    olarak uygulamalar indirilir ve kurulur.
+
+    Bu özelliği açmak için
+
+-   Tap Settings
+
+-   Tap iTunes&App Store
+
+-   Turn on Updates in the Automatic Downloads configuration list
+
+    Aşamalarını izlemeniz yeterlidir.
+
+4.  Remote wipe(uzaktan sil) özelliğini etkin hale getirmelisiniz.
+
+    Bu özelliğin varoluş amacı eğerki cihazının birşekilde kaybolursa
+    içindeki verilerin uzaktan silinebilmesine olanak
+    sağlamak.Böylelikle dataya gelen mala gelsin demiş olursunuz. Bunun
+    yanısıra apple’ın iCloud servisi çalınma veya kayıp gibi aksi
+    durumlar için GPS’i açık cihazları takip edebilme, ekrana mesaj
+    basma, cihazı kilitleme , tüm datayı temizleme gibi
+    imkanlar sağlanmıştır. Bunların nasıl açık hale getirileceğini .
+    iPhone’umu bul(Find My iPhone) altında anlatmaya çalışacağım.
+
+5.  iPhone’umu bul (Find My iPhone) özelliğini etkin
+    hale getirmelisiniz.
+
+    Ücretsiz olarak apple tarafından sunulan bu servis olağan dışı
+    durumlarında cihaz sahibinin cihazını takip edebilmesine, uzaktan
+    kilitleyebilmesine yada içindekileri silebilmesine olanak sağlar. Bu
+    servis iPad ve iPod Touch cihazlarınıda desteklemektedir. Tek
+    gereklilik ise ücretsiz bir iCloud hesabınınız olmasıdır.
+
+    Bu özelliği etkin hale getirmek için
+
+-   Tap Settings
+
+-   Tap iCloud
+
+-   Eğer daha önce girmediyseniz iCloud kullanıcı ismi ve parolası
+
+-   Turn On Find My iPhone
+
+-   Tap OK.
+
+    iOS 8 den sonrasını kullanan kullanıcılar ise Turn on Send Last
+    Location demeliler Turn On Find My iPhone’dan sonra
+
+6.  Cihazın yedeklerini(backup) şifrelemelisiniz.
+
+    Varsayılan ayarlarda iTunes düz yedekler, burada herhangi bir
+    şifreleme söz konusu değildir. Yedeklemenin tutulduğu bilgisayar bir
+    şekilde kötü ellere düşerse hassas verilerimizi çaldırırabiliriz.
+    Bunlada kalmayıp yedeği alınan iOS cihazı bu ele geçirilen veriler
+    ışığında saldırıya maruz kalabilir.
+
+    Şifrelemeyi açmak için ise iOS cihazı bilgisayara bağlamalısınız
+    ,iTunes’i açtıktan sonra “Encrypt |LF| |LF| device type |RF||RF|
+    backup” i işaretlemelisiniz. Elbette güçlü,karmaşık şifre
+    koymalısınızki bu hassasiyetiniz anlamını yitirmesin. Yoksa 3
+    saniyelik dictionary atakla çözülebilen şifre tercih ederseniz.
+    Sadece çocukların erişemeyeceği yere koymuş olursunuz.:)
+
+7.  Cihazı satarken,tamire verirken vs verilerinizi kalıcı
+    olarak silmelisiniz.
+
+    Verilerimiz,fotoğraflarımızın olur olmaz insanların eline geçmesini
+    istemiyorsak disk fiziki alanlarının üstünü yazmamız gerekmektedir.
+    Bunun için ios cihazlarda “Erase All Content and Settings” seçeneği
+    imdadımıza yetişmektedir. Bunu ise şöyle ayarlıyoruz.
+
+    Güvenli şekilde silmek için
+
+-   Tap Settings
+
+-   Tap General
+
+-   Tap Reset
+
+-   Tap Erase All Content and Settings
+
+-   Şifreliyse , uygun şifreyi girmelisiniz.
+
+    Tamamdır artık gönül rahatlığıyla telefonu elden çıkarabilirsiniz.
+
+8.  Passcode veya ayrı tanımlanmış şifre girmelisiniz.
+
+    Belkide tüm sıkılaştırma telkinleri arasında en basit fakat en
+    yararlı olan madde olarak görüyorum bu maddeyi. Ios Cihaza bir
+    passcode koymak yetkisiz erişimlerin önemli ölçüde önüne geçer.
+    Ayrıca veri koruma ve verileri şifreleme işi için gerekli
+    bir ayardır. Kısacası sıkılaştırmanın olmazsa olmazıdır. Passcode
+    ayarlarını ise şu şekilde yapabilirsiniz.
+
+-   Tap Settings
+
+-   Tap General
+
+-   Tap Passcode Lock
+
+-   Tap Turn Passcode On
+
+-   Şifreyi girin ve ileriye tıklayın
+
+-   Aynı şifreyi girip tekrar ileriye tıklayın
+
+    Artık biraz daha güvendesiniz. Çünkü tam 4 haneli bir şifreniz var.
+    Toplam 10.000 adet kombinasyon demek. Eğer brute force denen saldırı
+    çeşidi olmasaydı bu şifre bize haylice yeterdi fakat böyle bir
+    saldırı çeşidi biliyoruz ki var. O yüzden benim şahsi önerim daha
+    uzun bir passcode seçmeniz hatta üşenmeyip ayrıca bir
+    şifre belirlemeniz. iOS normal şartlarda sadece numerik
+    klavye çıkartmakta. Bu sizin uzun passcode girmenizi sağlayabilir
+    fakat daha hassas olmak isteyenler için alphanumeric karakterler
+    içeren şifre daha sağlıklı olacaktır. Bu yüzden karmaşık şifreler
+    için yine ayar yapmalıyız. Bu sayede şifre girerken çıkan klavyede
+    harfler ve rakamlar olacaktır.
+
+    Alphanumeric klavye için
+
+-   Tap Settings
+
+-   Tap General
+
+-   Tap Passcode Lock
+
+-   Eğer atamışssanız şimdiki passcode’unuzu giriniz
+
+-   Simple Passcode’u kapatınız
+
+-   Yeni uzun passcode veya şifrenizi giriniz ve ileriye basınız
+
+-   Aynı işlemi tekrarlayıp yine ileriye basınız
+
+    Tamamdır. Sımsıkı oldu diyebiliriz. En azından brute force için :)
+
+9.  Varsa TouchID’yi karmaşık bir parolayla aktif hale getirmelisiniz.
+
+    Eğer cihazınız TouchID’yi destekliyorsa, karmaşık bir parola(En
+    azından 8 uzunlukta harf,rakam,sembolden oluşan) tanımlayarak
+    TouchID’yi etkinleştirmelisiniz. Bu sayede telefona herhangi şifre
+    girmeden parmak izinizle giriş yapmanıza olanak tanınır. Şifre
+    girmeden giriş yapabiliyorsak niye karmaşık şifre oluşturduk
+    derseniz eğer şundan apple politika gereği parmak izini herhangi bir
+    yerde tutmuyor(kalıcı olarak). Dolayısıyla telefon kapanınca tekrar
+    şifreyle girmeniz gerekiyor veya olurda donanım bozulursa diye 48
+    saat boyunca parmak izinizle giriş yapmazsanız sizden yine
+    tanımlamış olduğunuz şifreyi istiyor. Yine ikaz etmekte fayda var
+    burada şifre yerine 4haneli passcode koyarsanız brute force
+    saldırısına karşı tahmini olarak 3 dakika direnebilirsiniz.
+
+10. Auto-Lock(Otomatik kilit) süresi girmelisiniz.
+
+    Bu özellik sayesinde cihaz belirlenen süre zarfında hareketsiz
+    kalırsa eğer otomatikmen kilitlenir.
+
+    Bu özelliği etkin hale getirmek için
+
+<!-- -->
+
+1.  Tap Settings
+
+2.  Tap General
+
+3.  Tap Auto-Lock
+
+4.  Size uygun zaman dilimini seçiniz, ne kadar kısa o kadar sıkı
+
+<!-- -->
+
+11. İltimas süresi(grace period) ekran kilidi için kaldırılmalı.
+
+    Bu özellik sayesinde normalde otomatik kilit özelliğiyle kilitlenen
+    cihaza bir iltimas süresi tanınıyor, eğer kullanıcı bu süre
+    dahilinde aktif olduğunu belli ederse cihaz herhangi bir şifre
+    tanımadan giriş yapılmasına izin veriyor. Bunu engellemek adına bu
+    iltimas süresini(grace period) immediately ayarlamamız gerekiyor.
+
+<!-- -->
+
+1.  Tap Settings
+
+2.  Tap General.
+
+3.  Tap Passcode Lock.
+
+4.  Tap Require Passcode
+
+5.  Immediately
+
+    12\. Aşırı fazla yanlış parola girildiğinde veriler silinmeli.
+
+    Cihaza çok fazla yanlış parola girilirse veriler silinsin ,bu denli
+    aşırı parola giriminin telefonu fiziksel olarak kaybettiğiniz zaman
+    cereyan etmesi yüksek ihtimaldir. Oyüzden verilerin güvenliği
+    açısından aşırı fazla şifre denendiği zaman verileri sil diye
+    ayarlamamız mümkün.
+
+    Bu özelliği etkin hale getirmek için
+
+-   Tap Settings.
+
+-   Tap General.
+
+-   Tap Passcode Lock
+
+-   Şuanki passcode’unuzu girin ve tamama tıklayın
+
+-   Erase Datayı açın
+
+-   Tap Enable
+
+13. Veri Korumayı(Data Protection) etkinleştirmelisiniz.
+
+    Şifreleme (encryption) destekleyen cihazlar ve iOS4 ve sonraki
+    sürümler verileri korumak adına, sahip olduğumuz passcode’dan
+    türetilen şifreleme anahtarı(encryption key) ile şifrelemeye olanak
+    sağlanayan uygulamaları destekler. Bu karmaşık duran özelliği etkin
+    hale getirmek için şu basit adımları izlememiz yeterli.
+
+    Etkin hale getirmek için
+
+-   Tap Settings
+
+-   Tap General
+
+-   Tap Passcode
+
+-   Ekranın en alt tarafında “Data protection is enabled” yazmalı
+
+    Çok önemli gördüğüm bir özelliktir dolayısıyla, hassas veya
+    başkasına eline kesinlikle geçmesini istemediğiniz verileriniz varsa
+    ki yüksek ihtimalle var bu ayarı yapmayı ihmal etmeyin. Bu olay
+    okadar önemli ki iOS7 ve sonrasında cihazlar için tüm 3. Parti
+    uygulamalar ve native(yerel) uygulamalar mesajlar fotoğraflar gibi
+    uygumalar veri korumayı (Data Protection) ı kullanmaktadırlar.
+
+14. Safari’de sahtekar(Fraud) uyarısını etkinleştirmelisiniz
+
+    Sahtekar website uyarı özelliği kullanıcıların bilinçsiz bir
+    şekilde, kötü emelli websitelerine erişmesini ciddi oranda
+    azaltır.Eğer bir şekilde kullanıcı bu kötü emelli siteye erişmek
+    isterse Safari bu sayfayı yüklemeyip , kullanıcıya bir ikaz
+    mesajı gösterecektir.
+
+    Bu tatlı özelliği etkinleştirmek için ise
+
+-   Tap Settings
+
+-   Tap Safari
+
+    -   Turn On Fradulent Website Warning
+
+15. Hassas bilgiler için otomatik tamamlamayı kapatın.
+
+    Otomatik tamamlama (Auto Fill) benim şahsen çok sevdiğim,tam tembel
+    işi bir özellik . Fakat bu özellik çok kötü sonuçlar doğurabilecek
+    bir potansiyele sahip. Biz formları doldurduktan sonra bunların
+    hatırlanması herzaman işimize gelmeyecektir. Bu tarz olaylara
+    musibetle neticenlenmeden önlem almak en doğrusu. Sonuçta yetkisiz
+    erişimlerle örneğin kredi kartı bilgilerimiz çok rahat şekilde ele
+    geçirilebilir.Şiddetle tavsiyemdir.
+
+    Bu olmazsa olmaz özelliği etkinleştirmek için
+
+-   Tap Settings
+
+-   Tap Safari
+
+-   Tap Passwords&Autofill
+
+-   Otomatik doldurulmasını istediğiniz özellikleri teker teker seçiniz
+
+16. Üçüncü partilerin çerezlerini(cookies) engelle.
+
+    Üçüncü parti çerez nedir önce kısaca onu anlatayım. Örneğin siz
+    *www.abidik.com*’a gittiniz burada bir facebook like butonu var. Bu
+    buton bir çerez oluşturabilir facebook tarafından okunabilen. Bu ve
+    bunun gibilere üçüncü parti çerez denir. Genelde bizi takip etme,
+    tanıma amaçlı kullanılır dolayısıyla bize uygun
+    reklam yayınlayabilirler. Bize esasında doğrudan bir zararı olmasada
+    yararıda olmayan bu çerezleri engellemek, engellememekten bir tık
+    daha iyi olduğunu düşündüğümden ben engelleyelim derim. Benimle aynı
+    fikri kapılanlar için.
+
+    Üçüncü parti çerezleri engelleme aşamaları
+
+-   Tap Settings
+
+-   Tap Safari
+
+-   Tap Block Cookies and select “From third parties and advertisers”
+
+17. Takip edilmeme(Do Not Track) özelliğini açmalısınız.
+
+    Bu seçenek işaretli olduğu takdirde safari istekte bulunduğumuz
+    siteye bir başlık gönderiyor. Bu kullanıcı takip edilmek
+    istememekte diye. Çoğu site onurlu bir tutum sergileyerek bu
+    hakkınıza saygı duymakta ve siz bu sayede minicikte olsa
+    sıkılaşmış oluyorsunuz. Fakat ya onurlu bir şekilde bir tutum
+    sergilemezse? Ozaman bu konu hakkında yapacak pek birşeyimiz yok.
+    Önümüzdeki yıllar boyunca firmaların prestiji ve onuru için saygı
+    duymalarını temenni edeceğiz. Yoksa hertürlü takip edebilirler.Biz
+    yinede bardağın dolu tarafından bakıp, hiç değilse saygı duyanları
+    bizi takip etmemesi için şu aşamaları izleyeceğiz.
+
+    Az takip edilmek için
+
+-   Tap Settings
+
+-   Tap Safari
+
+-   “Do Not Track”i açınız
+
+18. Ağ’a bağlanmak için sor’u kapatmalısınız.
+
+    Varsayılan ayarlarda eğer bir ağa bağlı değilseniz ve daha önceden
+    bağlı oluş olduğunuz hiç ağ yoksa ve yeni bir ağ keşfedilmiş ise iOS
+    bu ağa bağlanmak istiyormusunuz diye sormakta. iOS’un işi bu sorar
+    fakat bizim kesinlikle buna izin vermemiz lazım. Hemen
+    niyesine gelelim. Bu yeni katıldığımız network, kötü kullanımı
+    engelleyecek kadar iyi ayarlanmamış olabilir. Hadi bunu geçelim
+    kasten çoğu artniyetli insanın kasıtlı olarak halka açık yerlerde
+    herkesin erişimine wifi açıp çeşitli saldırılar düzenlenmekte. Biz
+    bu kurbanlardan biri olmamak için basitçe bu özelliği kapatıp. Kendi
+    isteğimiz doğrultusunda istediğimiz ağa bağlanmalıyız.Bu özelliği
+    etkinleştirmek için ise
+
+    Aşamalar
+
+-   Tap Settings
+
+-   Tap Wifi Settings
+
+-   Turn Off “Ask To Join Networks”
+
+19. Kullanımda değilse eğer AirDrop özelliğini kapatmalısınız.
+
+    AirDrop iki iOS cihazı arasında kolayca dosya transferi sağlamak
+    amacıyla oluşturulmuş bir servis. Haliyle diğer tüm servisler gibi
+    tadını kaçırmamak için o an aktif olarak bir dosya alıp
+    göndermiyorsak bu özelliği kapatmamızdan ne olur ne olmaz fayda var.
+
+    AirDrop’u kapatmak için ise
+
+-   iOS ekranınu yukardan aşağı kaydırıp,Control Centeri açalım.
+
+-   Tap AirDrop
+
+-   Tap Off
+
+20. Bluetooth kullanımda değilse kapatmalısınız.
+
+    Bluetooth’u kapatmak bize uzaktan saldırabilme ihtimallerini
+    azaltacağı gibi istemsizce başkalarının bluetoothuna bağlanmayıda
+    engelleyecektir.Kronik tavsiye olarak bluetooh aktif şekilde dosya
+    alıp verdiğinizin zaman kapatmalısınız.
+
+    Bluetooth’u kapatmak için ise
+
+-   Tap Settings
+
+-   Tap Bluetooth
+
+-   Turn Off Bluetooth
+
+21. Kişisel Hotspot kullanımda değilse kapatmalısınız
+
+    Kişisel Hotspot özelliği cihazların bir şebeke görevi görüp, kendi
+    ağlarını diğer cihazlarla paylaşmasına olanak sağlar. Cihaz bu
+    bağlantıyı Bluetooth, Wi-Fi veya USB üzerinden sağlayabilir. Bir
+    nevi hayrat niteliği taşıyan bu güzel özellik bizim aleyhimize
+    sonuçlar doğurabilir. Yetkisiz erişimlerle aleyhimize sonuçlar
+    doğurmaması ve saldırı alabilme ihtimalimizi minimum düzeye indirmek
+    adına bu özellik kullanımda değilken kapatmalısınız.
+
+    Hotspotu kapatmak için
+
+-   Tap Settings
+
+-   Tap Cellular
+
+-   Tap Personal Hotspot
+
+-   Personal Hotspotu kapat
+
+22. Otomatik bağlanmayı engellemek için Wi-Fi ağlarını unutmalısınız.
+
+    Wifi ağlarını unutmalısınız deyince, biraz yeşilçam vari dramatik
+    bir tavsiye oldu fakat unutmalısınız. Varsayılan ayarlarda iOS
+    cihazlar daha önce bağlandığınız bir ağ algılarsa
+    otomatikmen bağlanacaktır. Sizin gözünüz kapalı güvendiğiniz bu
+    network Wi-Fi spoof denilen atakla, sizin aslında güvenmediğiniz bir
+    ağa bağlanmanıza vesile olur. Yada daha önceden bağlandığınız
+    network yaygın SSID’ye sahiptir. “default”, “TP-Link” gibi buda
+    sizin yanlış ağlara bağlanmanızı dolayısıyla ARP , MAC spoof gibi
+    saldırılarla kolaylıkla networkünüzün başka cihazlar üzerinden
+    geçmesine olanak sağlar.
+
+    Hayatımızı kolaylaştıran bu özellikle vedalaştıktan sonra
+
+-   Tap Settings
+
+-   Tap Wi-Fi
+
+-   Locate the Wifi-Network to forget and tap the Detail Disclosure
+    Button
+
+-   Tap Forget This Network
+
+-   Tap Forget
+
+    Uyarı:Bu sadece civarımızdaki ağların unutulmasına imkan sağlar.
+    Daha önceden bağlanmış olup şuan civarında olmadığımız ağları
+    unutmak içinde reset all network settings yapılmalı.
+
+23. Yer bildirici servisleri kapatmalısınız.
+
+    Yer bildirici servisler yüklenen uygulamaların veya yerimizi bilme
+    isteği yollayan websitelerine iznimiz dahilinde bu bilgileri sağlar.
+    Fakat işin kötü yanı bu izni birkez verdiğimiz zaman bu uygulama
+    veya websitesi tekrar tekrar defalarca bu isteği yollar ve bizim
+    haberimiz olmadan bu bilgilere erişebilir.
+
+    Yer bildirici servisleri kapatmak için
+
+-   Tap Settings
+
+-   Tap Privacy
+
+-   Tap Location Services
+
+-   Location Services kapat
+
+-   Bilgilendirme dialogunda Turn Off’u seçin
+
+24. Yer bildirici servislere,rehbere,fotoğraflara vs erişimi
+    kısıtlamalısınız
+
+    iOS7 ile beraber , uygulamaların Yer bildirici
+    servislere,rehbere,fotoğraflara,ajandaya vs erişimi için uygulamaya
+    özel kısıtlamalar tanımlanma imkanı getirildi. Uygulamalar bu izni
+    birkez aldıklarında bu izni hatırlarlar ve birkez daha sormadan
+    istedikleri zaman erişebilirler. Bunun için her önemli veri içeren
+    kısımlara erişim için ya kimlerin erişemeyeceğini belirtmeliyiz.
+    Yada bana kolay geleni kimlerin erişebileceğini
+    belirtmeliyiz.Kimlerin erişebileceğini belirtmek için.
+
+    Dosyalara erişimi kısıtlamak için
+
+-   Tap Settings
+
+-   Tap Privacy
+
+-   Tap Location Services
+
+    Buradan sonra hangi uygulamaya güveniyorsak eğer onları seçmeliyiz.
+    Seçilmeyenler artık bu servise erişemeyecektir. Diğer hassas
+    verilerimiz olduğu kısımlar içinde benzer aşamaları yapıp
+    cihazımızı sıkılaştırabiliriz. Bu sıkılaştırma aleyhimize sonuçlar
+    doğurabilecek eylemleri çok ciddi düzeyde azaltmaktadır. Benim
+    özellikle sizi hassas olmaya davet ettiğim özelliklerin
+    başında gelmektedir.
+
+25. Ekran kilidi devredeyken Control Center’a erişim
+    imkanını kapatmalısınız.
+
+    Kullanıcılara ekran kilitliyken sık kullanılan ayarlara ve
+    uygulamalara hızlıca erişim imkanı vermek için iOS7 den sonra ortaya
+    çıkan bu özellik başımızı ağrıtabilecek güce sahip. Zaten iOS7 çıkar
+    çıkmaz telefonları fiziksel olarak ele geçiren yaramaz çocukların
+    ekran kilidini atlatarak bu özellik vasıtasıyla birçok bizim
+    açımızdan hassas veriye ulaşabildikleri açıklanmış ve bu zaafiyet
+    7.0.2 giderilmiştir. Bu özel durum belki yamandı fakat güvenliği
+    doğası gereği hızlıca belli başlı ayar ve uygulamalara erişebilme
+    imkanı kulağı tırmalıyor. O yüzden siz sımsıkı bir iOS istiyorsanız
+    benden size tavsiye işinizi hızlıca halletme taraftarı olmayın. Ne
+    demek istiyorum. Usulca bu özelliği kapatmalısınız.
+
+    Control Centera hızlı erişim imkanını kapatmak için
+
+-   Tap Settings
+
+-   Tap Control Center
+
+-   Access On Lock Screen’i kapat
+
+26. TouchID özelliğini kapatmalısınız.
+
+    iPhone5s ve yeni cihazların desteklediği bu özellik, kullanıcının
+    herhangi bir şifre girmeden parmak izini orta tuşa dokundurarak
+    giriş yapmasına olanak sağlıyor. Böylelikle bizde şifreyle
+    uğraşmadan hızlıca telefona giriş yapabiliyoruz. Anahtar kelimeyi
+    biraz önce sarfettim bile. “Hızlıca” bu kelime varsa güvenlik
+    zaafiyetide yüksek ihtimal vardır. Benim tavsiyem hala en güvenlikli
+    giriş yöntemi olarak uzun alfanumerik karakterlerden oluşan şifre.
+    Nedeni ise şöyle sonuçta bu parmak izimizi karşılaştıran şemalar bu
+    telefonun biryerlerinde tutulmakta. Eğer bir şekilde bunlara birkez
+    erişim imkanı bulursa artniyetli insanlar. Ya parmaklarımızı
+    değiştireceğiz ki günümüz estetik cerrahları bunu başarabilecek
+    düzeyde değiller o haldde parmağımızın bir kopyasının kötü niyetli
+    insanlarda olduğunu bilerek yaşamaya devam edeceğiz.
+
+    TouchID’yi kapatmak için.
+
+-   Tap Settings
+
+-   Tap General
+
+-   Tap Passcode& Fingerprint
+
+-   Tap Fingerprint
+
+-   Passcodu’nuzu girin ve kapatın
+
+-   8 veya daha fazla uzunlukta şifrenizi girmek için aşamaları
+    takip edin.
+
+27. Private Browsing Safaride ihtiyaç durumunda etkin hale getirilmeli.
+
+    Bu özellik kullanıcının websiteleri tarafından takip edilmesini
+    engeller, çerezleri tutmaz, otomatik tamamlama devre dışıdır, arama
+    geçmişimiz yoktur ve tutulmaz . Dolayısıyla kafamız rahat bir
+    şekilde takılırız. Tabi bu özellik açıldığında sadece bir
+    seferliğine bu imkanlara sahip olacağımızı unutmamak lazım.
+
+    Etkinleştirmek için ise
+
+-   Tap Safari
+
+-   Ekranın sağ alt köşesindeki Safari butonuna tıklayınız
+
+-   Tap Private
+
+-   Close All , Keep All, Close All Pages ten birini seçiniz.
+
+28. Safaride javascripti kullanım dışı bırakın.
+
+    Evet belkide iyice paranoyaklaştığımı düşünmeye başladınız. Belkide
+    amma da yumuşak iOS’um varmış sıkılaştır sıkılaştır bitmedi dediniz.
+    Belkide yeter artık oku oku bitmiyor dediniz ama emin olun yaz yaz
+    hiç bitmedi. Neyse son sıkılaştırma adımımız bu müjde!. Javascript
+    aslında olmazsa olmazımız, özellikle güvenilir websitelere karşı
+    kullanmamızda sakınca yok . Çok yüksek güvenlik düzeyi gerektiren
+    cihazlar bu özelliği kapatmalılarki sakıncalı websitelerinin
+    saldıralarına maruz kalmasınlar. Sıradan kullanıcılar bu özelliği
+    kapatırlarsa birçok websitesinde sorunlar karşılacakarında. Nazar
+    boncuğu babında bu sıkılaştırma adımını atlamalarını
+    tavsiye ediyorum. Bu özellik sadece “sımsıkı taş gibi dimdik” iOS
+    isteyenlerin inisiyatifine sunulmuştur.
+
+    Javascripti kullanım dışı kılmak için
+
+-   Tap Settings
+
+-   Tap Safari
+
+-   Tap Advanced
+
+-   Javascripti kapat
