@@ -1,6 +1,6 @@
 # ios_hardening
 
-1-İşletim sistemini son sürümüne güncelleyiniz.
+1- İşletim sistemini son sürümüne güncelleyiniz.
 
 Apple cihazları genellikle üretildikleri zaman , zamanının en güncel
 sürümleriyle üretilir.Fakat zamanla ortaya çıkan zaafiyetler ve hatalar
@@ -66,6 +66,7 @@ olarak uygulamalar indirilir ve kurulur.
 
 
 4-Remote wipe(uzaktan sil) özelliğini etkin hale getirmelisiniz.
+   
     Bu özelliğin varoluş amacı eğerki cihazının birşekilde kaybolursa
     içindeki verilerin uzaktan silinebilmesine olanak
     sağlamak.Böylelikle dataya gelen mala gelsin demiş olursunuz. Bunun
@@ -75,8 +76,8 @@ olarak uygulamalar indirilir ve kurulur.
     imkanlar sağlanmıştır. Bunların nasıl açık hale getirileceğini .
     iPhone’umu bul(Find My iPhone) altında anlatmaya çalışacağım.
 
-5-iPhone’umu bul (Find My iPhone) özelliğini etkin
-    hale getirmelisiniz.
+5-iPhone’umu bul (Find My iPhone) özelliğini etkin hale getirmelisiniz.
+    
     Ücretsiz olarak apple tarafından sunulan bu servis olağan dışı
     durumlarında cihaz sahibinin cihazını takip edebilmesine, uzaktan
     kilitleyebilmesine yada içindekileri silebilmesine olanak sağlar. Bu
@@ -105,6 +106,7 @@ olarak uygulamalar indirilir ve kurulur.
 
 
 6- Cihazın yedeklerini(backup) şifrelemelisiniz.
+    
     Varsayılan ayarlarda iTunes düz yedekler, burada herhangi bir
     şifreleme söz konusu değildir. Yedeklemenin tutulduğu bilgisayar bir
     şekilde kötü ellere düşerse hassas verilerimizi çaldırırabiliriz.
@@ -117,8 +119,8 @@ olarak uygulamalar indirilir ve kurulur.
     saniyelik dictionary atakla çözülebilen şifre tercih ederseniz.
     Sadece çocukların erişemeyeceği yere koymuş olursunuz.:)
 
-7- Cihazı satarken,tamire verirken vs verilerinizi kalıcı
-    olarak silmelisiniz.
+7- Cihazı satarken,tamire verirken vs verilerinizi kalıcıolarak silmelisiniz.
+    
     Verilerimiz,fotoğraflarımızın olur olmaz insanların eline geçmesini
     istemiyorsak disk fiziki alanlarının üstünü yazmamız gerekmektedir.
     Bunun için ios cihazlarda “Erase All Content and Settings” seçeneği
@@ -143,6 +145,7 @@ olarak uygulamalar indirilir ve kurulur.
     Tamamdır artık gönül rahatlığıyla telefonu elden çıkarabilirsiniz.
 
 8-  Passcode veya ayrı tanımlanmış şifre girmelisiniz.
+    
     Belkide tüm sıkılaştırma telkinleri arasında en basit fakat en
     yararlı olan madde olarak görüyorum bu maddeyi. Ios Cihaza bir
     passcode koymak yetkisiz erişimlerin önemli ölçüde önüne geçer.
@@ -201,6 +204,7 @@ olarak uygulamalar indirilir ve kurulur.
      Bir önceki aşamada paylaştığım ekran alıntılarını inceleyebilirsiniz
      
 9-Varsa TouchID’yi karmaşık bir parolayla aktif hale getirmelisiniz.
+    
     Eğer cihazınız TouchID’yi destekliyorsa, karmaşık bir parola(En
     azından 8 uzunlukta harf,rakam,sembolden oluşan) tanımlayarak
     TouchID’yi etkinleştirmelisiniz. Bu sayede telefona herhangi şifre
@@ -215,6 +219,7 @@ olarak uygulamalar indirilir ve kurulur.
     saldırısına karşı tahmini olarak 3 dakika direnebilirsiniz.
 
 10-Auto-Lock(Otomatik kilit) süresi girmelisiniz.
+    
     Bu özellik sayesinde cihaz belirlenen süre zarfında hareketsiz
     kalırsa eğer otomatikmen kilitlenir.
 
@@ -236,6 +241,7 @@ olarak uygulamalar indirilir ve kurulur.
 
 
 11-İltimas süresi(grace period) ekran kilidi için kaldırılmalı.
+    
     Bu özellik sayesinde normalde otomatik kilit özelliğiyle kilitlenen
     cihaza bir iltimas süresi tanınıyor, eğer kullanıcı bu süre
     dahilinde aktif olduğunu belli ederse cihaz herhangi bir şifre
@@ -259,6 +265,7 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/VY4kXB"><img src="http://i.hizliresim.com/VY4kXB.png"   align="left" height="480" width="256"></a>
 
 12-Aşırı fazla yanlış parola girildiğinde veriler silinmeli.
+    
     Cihaza çok fazla yanlış parola girilirse veriler silinsin ,bu denli
     aşırı parola giriminin telefonu fiziksel olarak kaybettiğiniz zaman
     cereyan etmesi yüksek ihtimaldir. Oyüzden verilerin güvenliği
@@ -283,7 +290,7 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/YbzYkE"><img src="http://i.hizliresim.com/YbzYkE.png"    align="left" height="480" width="256"></a>
 
-13. Veri Korumayı(Data Protection) etkinleştirmelisiniz.
+13- Veri Korumayı(Data Protection) etkinleştirmelisiniz.
 
     Şifreleme (encryption) destekleyen cihazlar ve iOS4 ve sonraki
     sürümler verileri korumak adına, sahip olduğumuz passcode’dan
@@ -354,6 +361,7 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/nrXVoM"><img src="http://i.hizliresim.com/nrXVoM.png"  align="left" height="480"  width="256"></a>
 
 16- Üçüncü partilerin çerezlerini(cookies) engelle.
+
     Üçüncü parti çerez nedir önce kısaca onu anlatayım. Örneğin siz
     *www.abidik.com*’a gittiniz burada bir facebook like butonu var. Bu
     buton bir çerez oluşturabilir facebook tarafından okunabilen. Bu ve
@@ -377,6 +385,7 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/OMQG8Q"><img src="http://i.hizliresim.com/OMQG8Q.png"   align="left" height="480"  width="256"></a>
     
 17- Takip edilmeme(Do Not Track) özelliğini açmalısınız.
+    
     Bu seçenek işaretli olduğu takdirde safari istekte bulunduğumuz
     siteye bir başlık gönderiyor. Bu kullanıcı takip edilmek
     istememekte diye. Çoğu site onurlu bir tutum sergileyerek bu
@@ -399,6 +408,7 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480"  width="256"></a>
     <a href="http://hizliresim.com/2ZGD4j"><img src="http://i.hizliresim.com/2ZGD4j.png"   align="left" height="480"  width="256"></a>
 18-Ağ’a bağlanmak için sor’u kapatmalısınız.
+   
     Varsayılan ayarlarda eğer bir ağa bağlı değilseniz ve daha önceden
     bağlı oluş olduğunuz hiç ağ yoksa ve yeni bir ağ keşfedilmiş ise iOS
     bu ağa bağlanmak istiyormusunuz diye sormakta. iOS’un işi bu sorar
@@ -423,6 +433,7 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/ZdG8mo"><img src="http://i.hizliresim.com/ZdG8mo.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/B2qmdL"><img src="http://i.hizliresim.com/B2qmdL.png"  align="left" height="480" width="256"></a>
 19-Kullanımda değilse eğer AirDrop özelliğini kapatmalısınız.
+   
     AirDrop iki iOS cihazı arasında kolayca dosya transferi sağlamak
     amacıyla oluşturulmuş bir servis. Haliyle diğer tüm servisler gibi
     tadını kaçırmamak için o an aktif olarak bir dosya alıp
@@ -437,6 +448,7 @@ olarak uygulamalar indirilir ve kurulur.
 -   Tap Off
 
 20- Bluetooth kullanımda değilse kapatmalısınız.
+  
     Bluetooth’u kapatmak bize uzaktan saldırabilme ihtimallerini
     azaltacağı gibi istemsizce başkalarının bluetoothuna bağlanmayıda
     engelleyecektir.Kronik tavsiye olarak bluetooh aktif şekilde dosya
@@ -455,6 +467,7 @@ olarak uygulamalar indirilir ve kurulur.
      <a href="http://hizliresim.com/DJQV0Z"><img src="http://i.hizliresim.com/DJQV0Z.png"  align="left" height="480" width="256"></a>
 
 21-Kişisel Hotspot kullanımda değilse kapatmalısınız
+  
     Kişisel Hotspot özelliği cihazların bir şebeke görevi görüp, kendi
     ağlarını diğer cihazlarla paylaşmasına olanak sağlar. Cihaz bu
     bağlantıyı Bluetooth, Wi-Fi veya USB üzerinden sağlayabilir. Bir
@@ -475,7 +488,7 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/GzdQjV"><img src="http://i.hizliresim.com/GzdQjV.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/1d8mqb"><img src="http://i.hizliresim.com/1d8mqb.png"  align="left" height="480" width="256"></a>
 
-22. Otomatik bağlanmayı engellemek için Wi-Fi ağlarını unutmalısınız.
+22- Otomatik bağlanmayı engellemek için Wi-Fi ağlarını unutmalısınız.
 
     Wifi ağlarını unutmalısınız deyince, biraz yeşilçam vari dramatik
     bir tavsiye oldu fakat unutmalısınız. Varsayılan ayarlarda iOS
@@ -508,6 +521,7 @@ olarak uygulamalar indirilir ve kurulur.
     unutmak içinde reset all network settings yapılmalı.
     
 23- Yer bildirici servisleri kapatmalısınız.
+   
     Yer bildirici servisler yüklenen uygulamaların veya yerimizi bilme
     isteği yollayan websitelerine iznimiz dahilinde bu bilgileri sağlar.
     Fakat işin kötü yanı bu izni birkez verdiğimiz zaman bu uygulama
@@ -530,8 +544,8 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/L3B7k1"><img src="http://i.hizliresim.com/L3B7k1.png"   align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/1d8PPA"><img src="http://i.hizliresim.com/1d8PPA.png"   align="left" height="480" width="256"></a>
 
-24- Yer bildirici servislere,rehbere,fotoğraflara vs erişimi
-     kısıtlamalısınız
+24- Yer bildirici servislere,rehbere,fotoğraflara vs erişimi kısıtlamalısınız
+    
     iOS7 ile beraber , uygulamaların Yer bildirici
     servislere,rehbere,fotoğraflara,ajandaya vs erişimi için uygulamaya
     özel kısıtlamalar tanımlanma imkanı getirildi. Uygulamalar bu izni
@@ -560,8 +574,8 @@ olarak uygulamalar indirilir ve kurulur.
     özellikle sizi hassas olmaya davet ettiğim özelliklerin
     başında gelmektedir.
 
-25- Ekran kilidi devredeyken Control Center’a erişim
-    imkanını kapatmalısınız.
+25- Ekran kilidi devredeyken Control Center’a erişim imkanını kapatmalısınız.
+    
     Kullanıcılara ekran kilitliyken sık kullanılan ayarlara ve
     uygulamalara hızlıca erişim imkanı vermek için iOS7 den sonra ortaya
     çıkan bu özellik başımızı ağrıtabilecek güce sahip. Zaten iOS7 çıkar
@@ -586,7 +600,8 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/nrXPgM"><img src="http://i.hizliresim.com/nrXPgM.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/X4aWo5"><img src="http://i.hizliresim.com/X4aWo5.png"  align="left" height="480" width="256"></a>
 
-26  TouchID özelliğini kapatmalısınız.
+26- TouchID özelliğini kapatmalısınız.
+   
     iPhone5s ve yeni cihazların desteklediği bu özellik, kullanıcının
     herhangi bir şifre girmeden parmak izini orta tuşa dokundurarak
     giriş yapmasına olanak sağlıyor. Böylelikle bizde şifreyle
@@ -617,6 +632,7 @@ olarak uygulamalar indirilir ve kurulur.
     takip edin.
 
 27- Private Browsing Safaride ihtiyaç durumunda etkin hale getirilmeli.
+   
     Bu özellik kullanıcının websiteleri tarafından takip edilmesini
     engeller, çerezleri tutmaz, otomatik tamamlama devre dışıdır, arama
     geçmişimiz yoktur ve tutulmaz . Dolayısıyla kafamız rahat bir
@@ -634,6 +650,7 @@ olarak uygulamalar indirilir ve kurulur.
 -   Close All , Keep All, Close All Pages ten birini seçiniz.
 
 28- Safaride javascripti kullanım dışı bırakın.
+    
     Evet belkide iyice paranoyaklaştığımı düşünmeye başladınız. Belkide
     amma da yumuşak iOS’um varmış sıkılaştır sıkılaştır bitmedi dediniz.
     Belkide yeter artık oku oku bitmiyor dediniz ama emin olun yaz yaz
