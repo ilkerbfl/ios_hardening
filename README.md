@@ -39,14 +39,14 @@ sorumluluğu almalısınız. Zararlı yazılımları öngörüp kaçınmalısın
 Root yetkisi isteyen uygulamalardan kesin emin değilseniz
 yüklememelisiniz.
 
-3.  Uygulamaların otomatik güncellemelerini açık tutmalısınız.
+3-Uygulamaların otomatik güncellemelerini açık tutmalısınız.
 
-    Uygulama güncellemeleri güvenlik zaafiyetlerinden,uygulamada bulunan
-    hatadan veya eklenmek istenen yeni özellikten
-    ötürü geliştirilmiştir. O yüzden özellikle internet ile etkileşim
-    halinde olan ve web tabanlı servisler sıklıkla güncellemelisiniz. Bu
-    açık tutma özelliği sayesinde güncelleştirme çıktığı zaman otomatik
-    olarak uygulamalar indirilir ve kurulur.
+Uygulama güncellemeleri güvenlik zaafiyetlerinden,uygulamada bulunan
+hatadan veya eklenmek istenen yeni özellikten
+ötürü geliştirilmiştir. O yüzden özellikle internet ile etkileşim
+halinde olan ve web tabanlı servisler sıklıkla güncellemelisiniz. Bu
+açık tutma özelliği sayesinde güncelleştirme çıktığı zaman otomatik
+olarak uygulamalar indirilir ve kurulur.
 
     Bu özelliği açmak için
 
@@ -58,11 +58,15 @@ yüklememelisiniz.
 
     Aşamalarını izlemeniz yeterlidir.
 
+
+
     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     
     <a href="http://hizliresim.com/L399ga"><img src="http://i.hizliresim.com/L399ga.png"align="left" height="480" width="256"></a>
     
     <a href="http://hizliresim.com/VY44ER"><img src="http://i.hizliresim.com/VY44ER.png"align="left" height="480" width="256"></a>
+
+
 
 4.  Remote wipe(uzaktan sil) özelliğini etkin hale getirmelisiniz.
 
@@ -95,9 +99,17 @@ yüklememelisiniz.
 -   Turn On Find My iPhone
 
 -   Tap OK.
+    
 
+
+
+     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/pPrrbm"><img src="http://i.hizliresim.com/pPrrbm.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/L399vj"><img src="http://i.hizliresim.com/L399vj.png"  align="left" height="480" width="256"></a>
     iOS 8 den sonrasını kullanan kullanıcılar ise Turn on Send Last
     Location demeliler Turn On Find My iPhone’dan sonra
+
+
 
 6.  Cihazın yedeklerini(backup) şifrelemelisiniz.
 
