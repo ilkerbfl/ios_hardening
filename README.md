@@ -68,8 +68,7 @@ olarak uygulamalar indirilir ve kurulur.
 
 
 
-4.  Remote wipe(uzaktan sil) özelliğini etkin hale getirmelisiniz.
-
+4-Remote wipe(uzaktan sil) özelliğini etkin hale getirmelisiniz.
     Bu özelliğin varoluş amacı eğerki cihazının birşekilde kaybolursa
     içindeki verilerin uzaktan silinebilmesine olanak
     sağlamak.Böylelikle dataya gelen mala gelsin demiş olursunuz. Bunun
@@ -79,9 +78,8 @@ olarak uygulamalar indirilir ve kurulur.
     imkanlar sağlanmıştır. Bunların nasıl açık hale getirileceğini .
     iPhone’umu bul(Find My iPhone) altında anlatmaya çalışacağım.
 
-5.  iPhone’umu bul (Find My iPhone) özelliğini etkin
+5-iPhone’umu bul (Find My iPhone) özelliğini etkin
     hale getirmelisiniz.
-
     Ücretsiz olarak apple tarafından sunulan bu servis olağan dışı
     durumlarında cihaz sahibinin cihazını takip edebilmesine, uzaktan
     kilitleyebilmesine yada içindekileri silebilmesine olanak sağlar. Bu
@@ -99,9 +97,7 @@ olarak uygulamalar indirilir ve kurulur.
 -   Turn On Find My iPhone
 
 -   Tap OK.
-    
-
-
+  
 
      <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/pPrrbm"><img src="http://i.hizliresim.com/pPrrbm.png"  align="left" height="480" width="256"></a>
@@ -118,7 +114,6 @@ olarak uygulamalar indirilir ve kurulur.
     şekilde kötü ellere düşerse hassas verilerimizi çaldırırabiliriz.
     Bunlada kalmayıp yedeği alınan iOS cihazı bu ele geçirilen veriler
     ışığında saldırıya maruz kalabilir.
-
     Şifrelemeyi açmak için ise iOS cihazı bilgisayara bağlamalısınız
     ,iTunes’i açtıktan sonra “Encrypt |LF| |LF| device type |RF||RF|
     backup” i işaretlemelisiniz. Elbette güçlü,karmaşık şifre
@@ -145,7 +140,11 @@ olarak uygulamalar indirilir ve kurulur.
 -   Tap Erase All Content and Settings
 
 -   Şifreliyse , uygun şifreyi girmelisiniz.
-
+    
+    
+    <a href="http://hizliresim.com/DJnNzO"><img src="http://i.hizliresim.com/DJnNzO.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/v4MMGr"><img src="http://i.hizliresim.com/v4MMGr.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/OMQQ4A"><img src="http://i.hizliresim.com/OMQQ4A.png"  align="left" height="480" width="256"></a>
     Tamamdır artık gönül rahatlığıyla telefonu elden çıkarabilirsiniz.
 
 8.  Passcode veya ayrı tanımlanmış şifre girmelisiniz.
@@ -168,7 +167,11 @@ olarak uygulamalar indirilir ve kurulur.
 -   Şifreyi girin ve ileriye tıklayın
 
 -   Aynı şifreyi girip tekrar ileriye tıklayın
-
+ 
+     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/gommEQ"><img src="http://i.hizliresim.com/gommEQ.png"   align="left" height="480" width="256"></a>
+    
     Artık biraz daha güvendesiniz. Çünkü tam 4 haneli bir şifreniz var.
     Toplam 10.000 adet kombinasyon demek. Eğer brute force denen saldırı
     çeşidi olmasaydı bu şifre bize haylice yeterdi fakat böyle bir
