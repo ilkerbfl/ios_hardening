@@ -194,10 +194,12 @@ olarak uygulamalar indirilir ve kurulur.
 
 -   Aynı işlemi tekrarlayıp yine ileriye basınız
     
-     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
-    <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
+
+    
     Tamamdır. Sımsıkı oldu diyebiliriz. En azından brute force için :)
 
+     Bir önceki aşamada paylaştığım ekran alıntılarını inceleyebilirsiniz
+     
 9-Varsa TouchID’yi karmaşık bir parolayla aktif hale getirmelisiniz.
     Eğer cihazınız TouchID’yi destekliyorsa, karmaşık bir parola(En
     azından 8 uzunlukta harf,rakam,sembolden oluşan) tanımlayarak
