@@ -57,8 +57,10 @@ yüklememelisiniz.
 -   Turn on Updates in the Automatic Downloads configuration list
 
     Aşamalarını izlemeniz yeterlidir.
+
+    <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256">></a>
     
-    <a href="http://hizliresim.com/DJnNzO"><img src="http://i.hizliresim.com/DJnNzO.png" align="left" height="48" width="48"> </a>
+    <a href="http://hizliresim.com/L399ga"><img src="http://i.hizliresim.com/L399ga.png"align="left" height="480" width="256">></a>
 
 4.  Remote wipe(uzaktan sil) özelliğini etkin hale getirmelisiniz.
 
