@@ -199,7 +199,9 @@ olarak uygulamalar indirilir ve kurulur.
 -   Yeni uzun passcode veya şifrenizi giriniz ve ileriye basınız
 
 -   Aynı işlemi tekrarlayıp yine ileriye basınız
-
+    
+     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
     Tamamdır. Sımsıkı oldu diyebiliriz. En azından brute force için :)
 
 9.  Varsa TouchID’yi karmaşık bir parolayla aktif hale getirmelisiniz.
@@ -217,47 +219,51 @@ olarak uygulamalar indirilir ve kurulur.
     burada şifre yerine 4haneli passcode koyarsanız brute force
     saldırısına karşı tahmini olarak 3 dakika direnebilirsiniz.
 
-10. Auto-Lock(Otomatik kilit) süresi girmelisiniz.
-
+10-Auto-Lock(Otomatik kilit) süresi girmelisiniz.
     Bu özellik sayesinde cihaz belirlenen süre zarfında hareketsiz
     kalırsa eğer otomatikmen kilitlenir.
 
     Bu özelliği etkin hale getirmek için
 
-<!-- -->
 
-1.  Tap Settings
 
-2.  Tap General
+-  Tap Settings
 
-3.  Tap Auto-Lock
+-  Tap General
 
-4.  Size uygun zaman dilimini seçiniz, ne kadar kısa o kadar sıkı
+-  Tap Auto-Lock
 
-<!-- -->
+-  Size uygun zaman dilimini seçiniz, ne kadar kısa o kadar sıkı
+    
+    <a href="http://hizliresim.com/v4MMGr"><img src="http://i.hizliresim.com/v4MMGr.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/WYJN48"><img src="http://i.hizliresim.com/WYJN48.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/mLvQG0"><img src="http://i.hizliresim.com/mLvQG0.png"  align="left" height="480" width="256"></a>
 
-11. İltimas süresi(grace period) ekran kilidi için kaldırılmalı.
 
+11-İltimas süresi(grace period) ekran kilidi için kaldırılmalı.
     Bu özellik sayesinde normalde otomatik kilit özelliğiyle kilitlenen
     cihaza bir iltimas süresi tanınıyor, eğer kullanıcı bu süre
     dahilinde aktif olduğunu belli ederse cihaz herhangi bir şifre
     tanımadan giriş yapılmasına izin veriyor. Bunu engellemek adına bu
     iltimas süresini(grace period) immediately ayarlamamız gerekiyor.
 
-<!-- -->
 
-1.  Tap Settings
 
-2.  Tap General.
+-  Tap Settings
 
-3.  Tap Passcode Lock.
+-  Tap General.
 
-4.  Tap Require Passcode
+-  Tap Passcode Lock.
 
-5.  Immediately
+-  Tap Require Passcode
 
-    12\. Aşırı fazla yanlış parola girildiğinde veriler silinmeli.
+-  Immediately
+    
+    <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/VY4kXB"><img src="http://i.hizliresim.com/VY4kXB.png"   align="left" height="480" width="256"></a>
 
+12-Aşırı fazla yanlış parola girildiğinde veriler silinmeli.
     Cihaza çok fazla yanlış parola girilirse veriler silinsin ,bu denli
     aşırı parola giriminin telefonu fiziksel olarak kaybettiğiniz zaman
     cereyan etmesi yüksek ihtimaldir. Oyüzden verilerin güvenliği
@@ -278,6 +284,10 @@ olarak uygulamalar indirilir ve kurulur.
 
 -   Tap Enable
 
+    <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/YbzYkE"><img src="http://i.hizliresim.com/YbzYkE.png"    align="left" height="480" width="256"></a>
+
 13. Veri Korumayı(Data Protection) etkinleştirmelisiniz.
 
     Şifreleme (encryption) destekleyen cihazlar ve iOS4 ve sonraki
@@ -296,6 +306,8 @@ olarak uygulamalar indirilir ve kurulur.
 
 -   Ekranın en alt tarafında “Data protection is enabled” yazmalı
 
+    <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
     Çok önemli gördüğüm bir özelliktir dolayısıyla, hassas veya
     başkasına eline kesinlikle geçmesini istemediğiniz verileriniz varsa
     ki yüksek ihtimalle var bu ayarı yapmayı ihmal etmeyin. Bu olay
@@ -303,8 +315,7 @@ olarak uygulamalar indirilir ve kurulur.
     uygulamalar ve native(yerel) uygulamalar mesajlar fotoğraflar gibi
     uygumalar veri korumayı (Data Protection) ı kullanmaktadırlar.
 
-14. Safari’de sahtekar(Fraud) uyarısını etkinleştirmelisiniz
-
+14- Safari’de sahtekar(Fraud) uyarısını etkinleştirmelisiniz
     Sahtekar website uyarı özelliği kullanıcıların bilinçsiz bir
     şekilde, kötü emelli websitelerine erişmesini ciddi oranda
     azaltır.Eğer bir şekilde kullanıcı bu kötü emelli siteye erişmek
@@ -319,6 +330,9 @@ olarak uygulamalar indirilir ve kurulur.
 
     -   Turn On Fradulent Website Warning
 
+ <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+ <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480" width="256"></a>
+ <a href="http://hizliresim.com/WYJN7E"><img src="http://i.hizliresim.com/WYJN7E.png"  align="left" height="480" width="256"></a>
 15. Hassas bilgiler için otomatik tamamlamayı kapatın.
 
     Otomatik tamamlama (Auto Fill) benim şahsen çok sevdiğim,tam tembel
