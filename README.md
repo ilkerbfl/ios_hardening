@@ -58,7 +58,7 @@ yüklememelisiniz.
 
     Aşamalarını izlemeniz yeterlidir.
     
-    [![image](http://i.hizliresim.com/DJnNzO.png)](http://hizliresim.com/DJnNzO)
+    <a href="http://hizliresim.com/DJnNzO"><img src="http://i.hizliresim.com/DJnNzO.png"> align="left" height="48" width="48" </a>
 
 4.  Remote wipe(uzaktan sil) özelliğini etkin hale getirmelisiniz.
 
