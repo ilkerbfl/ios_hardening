@@ -679,3 +679,17 @@ olarak uygulamalar indirilir ve kurulur.
       <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>    
      <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480" width="256"></a>
      <a href="http://hizliresim.com/J20Lqj"><img src="http://i.hizliresim.com/J20Lqj.png"  align="left" height="480" width="256"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                ###Referanslar
