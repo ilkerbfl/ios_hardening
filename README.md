@@ -50,11 +50,11 @@ olarak uygulamalar indirilir ve kurulur.
 
     Bu özelliği açmak için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap iTunes&App Store
+-   iTunes&App Store
 
--   Turn on Updates in the Automatic Downloads configuration list
+-   Güncellemeleri Aç
 
 
     Aşamalarını izlemeniz yeterlidir.
@@ -88,15 +88,15 @@ olarak uygulamalar indirilir ve kurulur.
 
     Bu özelliği etkin hale getirmek için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap iCloud
+-   iCloud
 
 -   Eğer daha önce girmediyseniz iCloud kullanıcı ismi ve parolası
 
--   Turn On Find My iPhone
+-   iPhone'umu Bul'u AÇ
 
--   Tap OK.
+-   Tamam
   
 
      <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
@@ -130,13 +130,13 @@ olarak uygulamalar indirilir ve kurulur.
 
     Güvenli şekilde silmek için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap General
+-   Genel
 
--   Tap Reset
+-   Sıfırla
 
--   Tap Erase All Content and Settings
+-   Tüm İçerik ve Ayarları Sil
 
 -   Şifreliyse , uygun şifreyi girmelisiniz.
     
@@ -155,13 +155,13 @@ olarak uygulamalar indirilir ve kurulur.
     bir ayardır. Kısacası sıkılaştırmanın olmazsa olmazıdır. Passcode
     ayarlarını ise şu şekilde yapabilirsiniz.
 
--   Tap Settings
+-   Ayarlar
 
--   Tap General
+-   Genel
 
--   Tap Passcode Lock
+-   TouchID ve Parola
 
--   Tap Turn Passcode On
+-   Parolayi Açın
 
 -   Şifreyi girin ve ileriye tıklayın
 
@@ -183,13 +183,13 @@ olarak uygulamalar indirilir ve kurulur.
     için yine ayar yapmalıyız. Bu sayede şifre girerken çıkan klavyede
     harfler ve rakamlar olacaktır.
 
-    Alphanumeric klavye için
+    Alfasayısal klavye için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap General
+-   Genel
 
--   Tap Passcode Lock
+-   TouchID ve Parola
 
 -   Eğer atamışssanız şimdiki passcode’unuzu giriniz
 
@@ -229,11 +229,11 @@ olarak uygulamalar indirilir ve kurulur.
 
 
 
--  Tap Settings
+-  Ayarlar
 
--  Tap General
+-  Genel
 
--  Tap Auto-Lock
+-  Otomatik Kilit
 
 -  Size uygun zaman dilimini seçiniz, ne kadar kısa o kadar sıkı
     
@@ -252,15 +252,15 @@ olarak uygulamalar indirilir ve kurulur.
 
 
 
--  Tap Settings
+-  Ayarlar
 
--  Tap General.
+-  Genel
 
--  Tap Passcode Lock.
+-  Parola
 
--  Tap Require Passcode
+-   Parola iste
 
--  Immediately
+-  Hemen
     
     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
@@ -276,17 +276,17 @@ olarak uygulamalar indirilir ve kurulur.
 
     Bu özelliği etkin hale getirmek için
 
--   Tap Settings.
+-   Ayarlar
 
--   Tap General.
+-   Genel
 
--   Tap Passcode Lock
+-   TouchID ve Parola
 
 -   Şuanki passcode’unuzu girin ve tamama tıklayın
 
--   Erase Datayı açın
+-   Verileri sil'i açın
 
--   Tap Enable
+-   Etkinleştir
 
     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
@@ -302,13 +302,13 @@ olarak uygulamalar indirilir ve kurulur.
 
     Etkin hale getirmek için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap General
+-   Genel
 
--   Tap Passcode
+-   Parola
 
--   Ekranın en alt tarafında “Data protection is enabled” yazmalı
+-   Ekranın en alt tarafında “Veri koruması etkin” yazmalı
 
     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
@@ -329,11 +329,11 @@ olarak uygulamalar indirilir ve kurulur.
 
     Bu tatlı özelliği etkinleştirmek için ise
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Safari
+-   Safari
 
-    -   Turn On Fradulent Website Warning
+-   Sahte Websitesi Uyarısını Aç
 
  <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
  <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480" width="256"></a>
@@ -350,11 +350,11 @@ olarak uygulamalar indirilir ve kurulur.
 
     Bu olmazsa olmaz özelliği etkinleştirmek için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Safari
+-   Safari
 
--   Tap Passwords&Autofill
+-   Otomatik Doldur
 
 -   Otomatik doldurulmasını istediğiniz özellikleri teker teker seçiniz
     
@@ -363,7 +363,7 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/nrXVoM"><img src="http://i.hizliresim.com/nrXVoM.png"  align="left" height="480"  width="256"></a>
 
 16- Üçüncü partilerin çerezlerini(cookies) engelle.
-
+    
     Üçüncü parti çerez nedir önce kısaca onu anlatayım. Örneğin siz
     *www.abidik.com*’a gittiniz burada bir facebook like butonu var. Bu
     buton bir çerez oluşturabilir facebook tarafından okunabilen. Bu ve
@@ -376,11 +376,11 @@ olarak uygulamalar indirilir ve kurulur.
 
     Üçüncü parti çerezleri engelleme aşamaları
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Safari
+-   Safari
 
--   Tap Block Cookies and select “From third parties and advertisers”
+-   Çerezleri engelle “Üçüncü parti ve reklamcılar”
 
      <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480"  width="256"></a>
@@ -401,11 +401,11 @@ olarak uygulamalar indirilir ve kurulur.
 
     Az takip edilmek için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Safari
+-   Safari
 
--   “Do Not Track”i açınız
+-    Takip Etmeyi açınız
      <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480"  width="256"></a>
     <a href="http://hizliresim.com/2ZGD4j"><img src="http://i.hizliresim.com/2ZGD4j.png"   align="left" height="480"  width="256"></a>
@@ -425,11 +425,11 @@ olarak uygulamalar indirilir ve kurulur.
 
     Aşamalar
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Wifi Settings
+-   Wifi
 
--   Turn Off “Ask To Join Networks”
+-   Ağa bağlanmadan sor
     
      <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/ZdG8mo"><img src="http://i.hizliresim.com/ZdG8mo.png"  align="left" height="480" width="256"></a>
@@ -445,9 +445,9 @@ olarak uygulamalar indirilir ve kurulur.
 
 -   iOS ekranınu yukardan aşağı kaydırıp,Control Centeri açalım.
 
--   Tap AirDrop
+-   AirDrop
 
--   Tap Off
+-   Kapat
 
 20- Bluetooth kullanımda değilse kapatmalısınız.
   
@@ -458,11 +458,11 @@ olarak uygulamalar indirilir ve kurulur.
 
     Bluetooth’u kapatmak için ise
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Bluetooth
+-   Bluetooth
 
--   Turn Off Bluetooth
+-   Bluetooth Kapat
 
      <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
      <a href="http://hizliresim.com/mLQjAY"><img src="http://i.hizliresim.com/mLQjAY.png"   align="left" height="480" width="256"></a>
@@ -480,18 +480,18 @@ olarak uygulamalar indirilir ve kurulur.
 
     Hotspotu kapatmak için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Personal Hotspot
+-   Kişisel Erişim Noktası
 
--   Personal Hotspotu kapat
+-   Kişisel Erişim Noktasını Kapat
     
     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/GzdQjV"><img src="http://i.hizliresim.com/GzdQjV.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/1d8mqb"><img src="http://i.hizliresim.com/1d8mqb.png"  align="left" height="480" width="256"></a>
 
 22- Otomatik bağlanmayı engellemek için Wi-Fi ağlarını unutmalısınız.
-
+    
     Wifi ağlarını unutmalısınız deyince, biraz yeşilçam vari dramatik
     bir tavsiye oldu fakat unutmalısınız. Varsayılan ayarlarda iOS
     cihazlar daha önce bağlandığınız bir ağ algılarsa
@@ -505,16 +505,14 @@ olarak uygulamalar indirilir ve kurulur.
 
     Hayatımızı kolaylaştıran bu özellikle vedalaştıktan sonra
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Wi-Fi
+-   Wi-Fi
 
--   Locate the Wifi-Network to forget and tap the Detail Disclosure
-    Button
+-   Wi-Fi nin yanındaki "i" detaylara tıkla
 
--   Tap Forget This Network
+-   Bu ağı unut
 
--   Tap Forget
      <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/ZdG8mo"><img src="http://i.hizliresim.com/ZdG8mo.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/B2qmlj"><img src="http://i.hizliresim.com/B2qmlj.png"  align="left" height="480" width="256"></a>
@@ -532,15 +530,15 @@ olarak uygulamalar indirilir ve kurulur.
 
     Yer bildirici servisleri kapatmak için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Privacy
+-   Gizlilik
 
--   Tap Location Services
+-   Konum Servisleri
 
--   Location Services kapat
+-   Konum Servislerini kapatın
 
--   Bilgilendirme dialogunda Turn Off’u seçin
+-   Bilgilendirme dialogunda Kapat’i seçin
     
     <a href="http://hizliresim.com/L3BP7G"><img src="http://i.hizliresim.com/L3BP7G.png"    align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/L3B7k1"><img src="http://i.hizliresim.com/L3B7k1.png"   align="left" height="480" width="256"></a>
@@ -559,11 +557,11 @@ olarak uygulamalar indirilir ve kurulur.
 
     Dosyalara erişimi kısıtlamak için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Privacy
+-   Gizlilik
 
--   Tap Location Services
+-   Konum Servisleri
     
      <a href="http://hizliresim.com/L3BP7G"><img src="http://i.hizliresim.com/L3BP7G.png"    align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/L3B7k1"><img src="http://i.hizliresim.com/L3B7k1.png"   align="left" height="480" width="256"></a>
@@ -592,11 +590,11 @@ olarak uygulamalar indirilir ve kurulur.
 
     Control Centera hızlı erişim imkanını kapatmak için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Control Center
+-   Denetim Merkezi
 
--   Access On Lock Screen’i kapat
+-   Kilitli Ekranda Erişimi kapat
     
      <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     <a href="http://hizliresim.com/nrXPgM"><img src="http://i.hizliresim.com/nrXPgM.png"  align="left" height="480" width="256"></a>
@@ -620,13 +618,13 @@ olarak uygulamalar indirilir ve kurulur.
 
     TouchID’yi kapatmak için.
 
--   Tap Settings
+-   Ayarlar
 
--   Tap General
+-   Genel
 
--   Tap Passcode& Fingerprint
+-   Parola ve Parmak izi
 
--   Tap Fingerprint
+-   Parmak izi
 
 -   Passcodu’nuzu girin ve kapatın
 
@@ -643,13 +641,13 @@ olarak uygulamalar indirilir ve kurulur.
 
     Etkinleştirmek için ise
 
--   Tap Safari
+-   Safari
 
 -   Ekranın sağ alt köşesindeki Safari butonuna tıklayınız
 
--   Tap Private
+-   Gizli
 
--   Close All , Keep All, Close All Pages ten birini seçiniz.
+-   Uygun seçeneklerden birini seçiniz.
 
 28- Safaride javascripti kullanım dışı bırakın.
     
@@ -668,11 +666,11 @@ olarak uygulamalar indirilir ve kurulur.
 
     Javascripti kullanım dışı kılmak için
 
--   Tap Settings
+-   Ayarlar
 
--   Tap Safari
+-   Safari
 
--   Tap Advanced
+-   İleri Düzey
 
 -   Javascripti kapat
      
