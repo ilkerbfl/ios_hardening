@@ -57,9 +57,6 @@ olarak uygulamalar indirilir ve kurulur.
 -   Turn on Updates in the Automatic Downloads configuration list
 
     Aşamalarını izlemeniz yeterlidir.
-
-
-
     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
     
     <a href="http://hizliresim.com/L399ga"><img src="http://i.hizliresim.com/L399ga.png"align="left" height="480" width="256"></a>
@@ -107,8 +104,7 @@ olarak uygulamalar indirilir ve kurulur.
 
 
 
-6.  Cihazın yedeklerini(backup) şifrelemelisiniz.
-
+6- Cihazın yedeklerini(backup) şifrelemelisiniz.
     Varsayılan ayarlarda iTunes düz yedekler, burada herhangi bir
     şifreleme söz konusu değildir. Yedeklemenin tutulduğu bilgisayar bir
     şekilde kötü ellere düşerse hassas verilerimizi çaldırırabiliriz.
@@ -121,9 +117,8 @@ olarak uygulamalar indirilir ve kurulur.
     saniyelik dictionary atakla çözülebilen şifre tercih ederseniz.
     Sadece çocukların erişemeyeceği yere koymuş olursunuz.:)
 
-7.  Cihazı satarken,tamire verirken vs verilerinizi kalıcı
+7- Cihazı satarken,tamire verirken vs verilerinizi kalıcı
     olarak silmelisiniz.
-
     Verilerimiz,fotoğraflarımızın olur olmaz insanların eline geçmesini
     istemiyorsak disk fiziki alanlarının üstünü yazmamız gerekmektedir.
     Bunun için ios cihazlarda “Erase All Content and Settings” seçeneği
@@ -147,8 +142,7 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/OMQQ4A"><img src="http://i.hizliresim.com/OMQQ4A.png"  align="left" height="480" width="256"></a>
     Tamamdır artık gönül rahatlığıyla telefonu elden çıkarabilirsiniz.
 
-8.  Passcode veya ayrı tanımlanmış şifre girmelisiniz.
-
+8-  Passcode veya ayrı tanımlanmış şifre girmelisiniz.
     Belkide tüm sıkılaştırma telkinleri arasında en basit fakat en
     yararlı olan madde olarak görüyorum bu maddeyi. Ios Cihaza bir
     passcode koymak yetkisiz erişimlerin önemli ölçüde önüne geçer.
@@ -204,8 +198,7 @@ olarak uygulamalar indirilir ve kurulur.
     <a href="http://hizliresim.com/5VWWjl"><img src="http://i.hizliresim.com/5VWWjl.png"   align="left" height="480" width="256"></a>
     Tamamdır. Sımsıkı oldu diyebiliriz. En azından brute force için :)
 
-9.  Varsa TouchID’yi karmaşık bir parolayla aktif hale getirmelisiniz.
-
+9-Varsa TouchID’yi karmaşık bir parolayla aktif hale getirmelisiniz.
     Eğer cihazınız TouchID’yi destekliyorsa, karmaşık bir parola(En
     azından 8 uzunlukta harf,rakam,sembolden oluşan) tanımlayarak
     TouchID’yi etkinleştirmelisiniz. Bu sayede telefona herhangi şifre
@@ -352,9 +345,11 @@ olarak uygulamalar indirilir ve kurulur.
 -   Tap Passwords&Autofill
 
 -   Otomatik doldurulmasını istediğiniz özellikleri teker teker seçiniz
+    
+    <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480"  width="256"></a>
 
-16. Üçüncü partilerin çerezlerini(cookies) engelle.
-
+16- Üçüncü partilerin çerezlerini(cookies) engelle.
     Üçüncü parti çerez nedir önce kısaca onu anlatayım. Örneğin siz
     *www.abidik.com*’a gittiniz burada bir facebook like butonu var. Bu
     buton bir çerez oluşturabilir facebook tarafından okunabilen. Bu ve
@@ -373,6 +368,10 @@ olarak uygulamalar indirilir ve kurulur.
 
 -   Tap Block Cookies and select “From third parties and advertisers”
 
+     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480"  width="256"></a>
+    <a href="http://hizliresim.com/OMQG8Q"><img src="http://i.hizliresim.com/OMQG8Q.png"   align="left" height="480"  width="256"></a>
+    
 17. Takip edilmeme(Do Not Track) özelliğini açmalısınız.
 
     Bu seçenek işaretli olduğu takdirde safari istekte bulunduğumuz
@@ -393,7 +392,9 @@ olarak uygulamalar indirilir ve kurulur.
 -   Tap Safari
 
 -   “Do Not Track”i açınız
-
+     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/mLvQJP"><img src="http://i.hizliresim.com/mLvQJP.png"  align="left" height="480"  width="256"></a>
+    <a href="http://hizliresim.com/2ZGD4j"><img src="http://i.hizliresim.com/2ZGD4j.png"   align="left" height="480"  width="256"></a>
 18. Ağ’a bağlanmak için sor’u kapatmalısınız.
 
     Varsayılan ayarlarda eğer bir ağa bağlı değilseniz ve daha önceden
@@ -415,7 +416,9 @@ olarak uygulamalar indirilir ve kurulur.
 -   Tap Wifi Settings
 
 -   Turn Off “Ask To Join Networks”
-
+    
+     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/ZdG8mo"><img src="http://i.hizliresim.com/ZdG8mo.png"  align="left" height="480" width="256"></a>
 19. Kullanımda değilse eğer AirDrop özelliğini kapatmalısınız.
 
     AirDrop iki iOS cihazı arasında kolayca dosya transferi sağlamak
@@ -491,7 +494,8 @@ olarak uygulamalar indirilir ve kurulur.
 -   Tap Forget This Network
 
 -   Tap Forget
-
+     <a href="http://hizliresim.com/VY44Vj"><img src="http://i.hizliresim.com/VY44Vj.png"  align="left" height="480" width="256"></a>
+    <a href="http://hizliresim.com/ZdG8mo"><img src="http://i.hizliresim.com/ZdG8mo.png"  align="left" height="480" width="256"></a>
     Uyarı:Bu sadece civarımızdaki ağların unutulmasına imkan sağlar.
     Daha önceden bağlanmış olup şuan civarında olmadığımız ağları
     unutmak içinde reset all network settings yapılmalı.
