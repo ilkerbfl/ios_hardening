@@ -692,4 +692,9 @@ olarak uygulamalar indirilir ve kurulur.
 
 
 
-                ###Referanslar
+                                                ## H2 REFERANSLAR 
+        http://www.asd.gov.au/publications/protect/ios-hardening-guide.htm
+        https://www.apple.com/business/docs/iOS_Security_Guide.pdf
+        http://www.bu.edu/infosec/policies/security-hardening-of-ios/
+        http://cydia.radare.org/sec/
+        https://en.wikipedia.org/wiki/IOS_jailbreaking
